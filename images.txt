@@ -2,3 +2,4 @@ nginx
 #支持指定架构
 --platform=linux/amd64 xiaoyaliu/alist
 len996/115bot:latest
+yundan21/my-web-115:latest
